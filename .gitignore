@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# exclude virtual environment directory from version control system
+env/
+
 # User-specific files
 *.rsuser
 *.suo
